@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css">
+ <body>
+  <h1><center>Mercedes</center></h1>
+  
+  <p> Een andere pagina gaat over het Formule 1 team Mercedes. </p>
+
+<p> Mercedes AMG Petronas Formula One Team is het Formule 1 team van het autobedrijf Mercedes. Het Mercedes AMG Petronas Formula One Team is opgericht in 2010 en is sinds het hybride tijdperk (2015) erg succesvol. Ze hebben de afgelopen 5 jaar de competitie gewonnen. Samen met Red Bull Racing en Scuduria Ferrari domineren ze de Formule 1. </p>
+  <br>
+  <h3>Coureurs</h3>
+  <p> Lewis Hamilton: Lewis Hamilten is zes voudig wereldkampioen in de Formule 1. Hij is ook de eerste rijder van Mercedes. HIj heeft een salaris van 40 miljoen. Hij is 35 jaar en rijdt al sinds 2007 in de Formule 1. Lewis Hamiltin heeft 81 overwinningen behaald. Lewis Hamilton is geboren in Engeland en is daar ook opgevoed. </p>
+   <p> Valterri Bottas: Valterri Bottas is de tweede courour van Mercedes. Hij is geboren in Finland en rijdt al sinds 2013 in de Formule 1 en is 30 jaar oud. Momenteel staat hij eerste in de competitetie. Hij won ook de Oostenrijk GP van 2020 en dat is tot nu toe de enigste race die gerden is. </p>
+  
+  <div class="links"
+<br>
+<a href= "https://i8h7xe.mimo.run/index.html">Mercedes</a>
+<a href= "https://2odlj6.mimo.run/index.html">Ferrari</a>
+<a href= "https://xwfwvb.mimo.run/index.html">Red Bull</a>
+<a href= "https://i6lx5j.mimo.run/index.html">Home</a>
+<a href="https://3hmd2c.mimo.run/index.html">Oostenrijk</a>
+  </div>
+      <br>
+  <br>
+   <img src="https://i.pinimg.com/236x/fb/29/3d/fb293d8f472824f541de596f3d2a54d6--formula-one-.jpg">  
+</body>
+</html>
